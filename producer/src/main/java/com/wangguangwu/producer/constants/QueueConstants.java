@@ -1,4 +1,13 @@
-package com.wangguangwu.producer.constants;/**
+package com.wangguangwu.producer.constants;
+
+/**
  * @author wangguangwu
- */public class QueueConstants {
+ */
+public final class QueueConstants {
+
+    public static final String MESSAGE_QUEUE = "messageQueue";
+    public static final String MESSAGE_USER = "messageUser";
+
+    private QueueConstants() {
+    }
 }

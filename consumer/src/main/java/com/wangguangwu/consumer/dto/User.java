@@ -1,4 +1,4 @@
-package com.wangguangwu.producer.dto;
+package com.wangguangwu.consumer.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
